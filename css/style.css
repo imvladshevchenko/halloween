@@ -691,19 +691,20 @@ main {
   .steps-1,
   .steps-2,
   .steps-3 {
-    width: 252px;
-    height: 76px;
-    padding-top: 22px;
-    padding-left: 42px;
+    width: 310px;
+    height: 93px;
+    padding-top: 24px;
+    padding-left: 53px;
     opacity: 0;
   }
   .steps__img {
-    width: 11px;
-    height: 25px;
+    width: 15px;
+    height: 30px;
     margin-right: 3.6em;
+    margin-top: 4px;
   }
   .steps-1 > .steps__img {
-    margin-right: 56px;
+    margin-right: 69px;
   }
   .steps-2 > .steps__img {
     margin-right: 9px;
@@ -715,13 +716,13 @@ main {
     width: auto;
   }
   .steps-2 > .steps__text {
-    max-width: 140px;
+    max-width: 180px;
   }
   .steps-3 > .steps__text {
-    max-width: 130px;
+    max-width: 165px;
   }
   .steps__text {
-    font-size: 14px;
+    font-size: 18px;
     line-height: 1.18;
   }
   .bonus__title {
